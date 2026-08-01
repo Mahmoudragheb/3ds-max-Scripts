@@ -1,0 +1,30 @@
+# NeoCapture Script Manager manifest
+# Format: Name | type | url
+# Types: mzp / zip / plugin / macro / startup / script / installer / chaoslicense
+#
+# ---------------------------------------------------------------------------
+# "installer" = a full application setup (V-Ray, Corona, Chaos Vantage...).
+# First press = downloads it in a separate console window (Max stays usable).
+# Second press = launches the setup you already downloaded.
+# Use Google Drive share links (GitHub rejects files over 100 MB).
+# Paste the normal "share" link - it is converted to a direct link automatically.
+#
+# V-Ray 7 for 3ds Max 2026 | installer | https://drive.google.com/file/d/FILE_ID/view?usp=sharing
+# Chaos Corona for 3ds Max 2026 | installer | https://drive.google.com/file/d/FILE_ID/view?usp=sharing
+# Chaos Vantage | installer | https://drive.google.com/file/d/FILE_ID/view?usp=sharing
+#
+# "chaoslicense" = your vrlclient.xml (license server address).
+# Installs to C:\ProgramData\Chaos Group\vrlclient, backing up any existing file.
+# Chaos License Config | chaoslicense | https://drive.google.com/file/d/FILE_ID/view?usp=sharing
+# ---------------------------------------------------------------------------
+Auto Light v1.38 | mzp | https://raw.githubusercontent.com/Mahmoudragheb/3ds-max-Scripts/main/Auto.Light.v.1.38.-2016-2024-iTooHelper.mzp
+Camera Converter v1.26 | mzp | https://raw.githubusercontent.com/Mahmoudragheb/3ds-max-Scripts/main/Camera.Converter.v1.26-2016-2025-iTooHelper.mzp
+Floor Generator (Max 2026) | plugin | https://raw.githubusercontent.com/Mahmoudragheb/3ds-max-Scripts/main/FloorGenerator_max2026_64bit.dlm
+MultiTexture v2.04 (Max 2026) | plugin | https://raw.githubusercontent.com/Mahmoudragheb/3ds-max-Scripts/main/MultiTexture_max2026_ver2.04_64bit.dlt
+Prune Scene | mzp | https://raw.githubusercontent.com/Mahmoudragheb/3ds-max-Scripts/main/PruneScene.mzp
+Relink Bitmaps v2.17 | mzp | https://raw.githubusercontent.com/Mahmoudragheb/3ds-max-Scripts/main/Relink%20Bitmaps%20v2.17.mzp
+Smart Camera View v3.99 | mzp | https://raw.githubusercontent.com/Mahmoudragheb/3ds-max-Scripts/main/Smart.Camera.View.v3.99-2016-2025-iTooHelper.mzp
+Dappled Light Generator v1.0 | mzp | https://raw.githubusercontent.com/Mahmoudragheb/3ds-max-Scripts/main/Dappled%20Light%20Generator%20v1.0.mzp
+QuickAttach v1.82 | macro | https://raw.githubusercontent.com/Mahmoudragheb/3ds-max-Scripts/main/quickattach_v1.82.mcr
+Move To Surface v2 | macro | https://raw.githubusercontent.com/Mahmoudragheb/3ds-max-Scripts/main/MoveToSurface_v2.mcr
+Make it Instance | script | https://raw.githubusercontent.com/Mahmoudragheb/3ds-max-Scripts/main/Make%20it%20Instance.ms
